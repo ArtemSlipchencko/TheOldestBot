@@ -1,0 +1,22 @@
+{
+  "name": "theoldestbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemSlipchencko/TheOldestBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemSlipchencko/TheOldestBot/issues"
+  },
+  "homepage": "https://github.com/ArtemSlipchencko/TheOldestBot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
